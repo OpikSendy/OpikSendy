@@ -1,89 +1,55 @@
 <div align="center">
 
-  <!-- Dynamic Typing SVG Header -->
+  <h2>Isyandi Muhammad Fadillah</h2>
+
   <a href="https://github.com/OpikSendy">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&width=650&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Isyandi+Muhammad+Fadillah;Full-Stack+Web+%26+Mobile+Developer;Bangkit+Academy+Graduate+%7C+SINTA+4+Author" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3200&pause=1200&color=38BDF8&center=true&vCenter=true&width=540&height=28&lines=Full-Stack+Software+Engineer;Cross-Platform+%26+Native+Mobile+Developer;Scalable+Web+%26+Distributed+API+Architectures" alt="Role" />
   </a>
 
   <p align="center">
-    <b>Informatics Engineering Student at Universitas Teknologi Yogyakarta</b><br>
-    Crafting scalable web architectures, resilient mobile apps, and robust API ecosystems.
+    Designing resilient backend services, modern web applications, and cross-platform mobile systems.
   </p>
 
-  <!-- Quick Badges -->
   <p align="center">
-    <a href="mailto:opiksendy@gmail.com"><img src="https://img.shields.io/badge/Email-opiksendy%40gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-    <a href="https://github.com/OpikSendy"><img src="https://img.shields.io/badge/GitHub-OpikSendy-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
-    <img src="https://img.shields.io/badge/Focus-Full--Stack%20%26%20Mobile-0ea5e9?style=flat-square" alt="Focus">
-    <img src="https://komarev.com/ghpvc/?username=OpikSendy&color=38bdf8&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+    <a href="mailto:opiksendy@gmail.com"><img src="https://img.shields.io/badge/opiksendy%40gmail.com-18181B?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email" /></a>
+    <a href="https://github.com/OpikSendy"><img src="https://img.shields.io/badge/github.com%2FOpikSendy-18181B?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+    <img src="https://img.shields.io/badge/Yogyakarta%2C_ID-18181B?style=flat-square&logo=googlemaps&logoColor=38BDF8" alt="Location" />
+    <img src="https://komarev.com/ghpvc/?username=OpikSendy&color=38bdf8&style=flat-square&label=VIEWS" alt="Views" />
   </p>
 
 </div>
 
 ---
 
-### ⚡ Snapshot Profil
+### Overview
 
-- 🔭 **Sedang Aktif**: Membangun aplikasi web full-stack modern (Next.js 16+, Express, PostgreSQL) dan aplikasi mobile (Flutter & Kotlin).
-- 🎓 **Edukasi**: S1 Informatika di Universitas Teknologi Yogyakarta.
-- 🏆 **Pencapaian**:
-  - **Bangkit Academy Graduate (Android Path)** — Kolaborasi Google, GoTo, & Traveloka (Lolos seleksi 1 dari 4.600+ peserta dari 45.000+ pendaftar).
-  - **Penulis Jurnal Ilmiah (SINTA 4)** — *"Sistem Pelaporan Fasilitas Umum Berbasis Mobile dan Web dengan Teknologi Geolocation Menggunakan Metode Waterfall"* di JINTEKS (Nov 2025).
-- 💬 **Bisa Diskusi Bareng**: Arsitektur Full-Stack, Clean Architecture di Flutter, integrasi REST API, dan optimasi performa backend.
+Software Engineer specializing in end-to-end product engineering across modern web ecosystems (**Next.js**, **TypeScript**, **Go**, **Laravel**) and mobile platforms (**Flutter**, **Android Kotlin**). Focused on transactional integrity, clean architecture, and pragmatic system design for enterprise workflows and public-sector platforms.
 
----
-
-### 🛠️ Tech Stack & Ekosistem
-
-<div align="left">
-
-![Next.js](https://img.shields.io/badge/Next.js%2016+-black?style=flat-square&logo=next.js&logoColor=white)
-![React 19](https://img.shields.io/badge/React%2019-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Bun](https://img.shields.io/badge/Bun-fbf0df?style=flat-square&logo=bun&logoColor=black)
-
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-0284c7?style=flat-square&logo=fastapi&logoColor=white)
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Android SDK](https://img.shields.io/badge/Android%20SDK-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-
-</div>
+- **Engineering Velocity** — 1,880+ contributions across 40+ active repositories in 2026 spanning backend microservices, web portals, and mobile applications.
+- **Bangkit Academy Alumni** — Android Engineering cohort backed by **Google, GoTo, & Traveloka** (selected among top 10% of 45,000+ national applicants).
+- **Published Author (SINTA 4)** — Peer-reviewed publication in *Jurnal Informatika Teknologi dan Sains (JINTEKS)* on geolocation-based multi-platform reporting systems.
+- **Academic Background** — Informatics, Universitas Teknologi Yogyakarta.
 
 ---
 
-### 📊 GitHub Activity & Metrics
+### Technical Stack
+
+| Layer | Technologies |
+| :--- | :--- |
+| **Web & Frontend** | ![Next.js](https://img.shields.io/badge/Next.js-18181B?style=flat-square&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React_19-18181B?style=flat-square&logo=react&logoColor=61DAFB) ![Vue.js](https://img.shields.io/badge/Vue.js-18181B?style=flat-square&logo=vuedotjs&logoColor=4FC08D) ![TypeScript](https://img.shields.io/badge/TypeScript-18181B?style=flat-square&logo=typescript&logoColor=3178C6) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-18181B?style=flat-square&logo=tailwindcss&logoColor=38BDF8) ![Bun](https://img.shields.io/badge/Bun-18181B?style=flat-square&logo=bun&logoColor=FBF0DF) |
+| **Backend & Data** | ![Go](https://img.shields.io/badge/Go-18181B?style=flat-square&logo=go&logoColor=00ADD8) ![Node.js](https://img.shields.io/badge/Node.js-18181B?style=flat-square&logo=nodedotjs&logoColor=5FA04E) ![Express](https://img.shields.io/badge/Express-18181B?style=flat-square&logo=express&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-18181B?style=flat-square&logo=laravel&logoColor=FF2D20) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-18181B?style=flat-square&logo=postgresql&logoColor=60A5FA) ![MySQL](https://img.shields.io/badge/MySQL-18181B?style=flat-square&logo=mysql&logoColor=38BDF8) |
+| **Mobile** | ![Flutter](https://img.shields.io/badge/Flutter-18181B?style=flat-square&logo=flutter&logoColor=47C5FB) ![Dart](https://img.shields.io/badge/Dart-18181B?style=flat-square&logo=dart&logoColor=2CB7F6) ![Kotlin](https://img.shields.io/badge/Kotlin-18181B?style=flat-square&logo=kotlin&logoColor=7F52FF) ![Android](https://img.shields.io/badge/Android_SDK-18181B?style=flat-square&logo=android&logoColor=3DDC84) |
+| **Infrastructure** | ![Docker](https://img.shields.io/badge/Docker-18181B?style=flat-square&logo=docker&logoColor=2496ED) ![Git](https://img.shields.io/badge/Git-18181B?style=flat-square&logo=git&logoColor=F05032) ![Firebase](https://img.shields.io/badge/Firebase-18181B?style=flat-square&logo=firebase&logoColor=FFCA28) ![Vercel](https://img.shields.io/badge/Vercel-18181B?style=flat-square&logo=vercel&logoColor=white) |
+
+---
+
+### Activity & Telemetry
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OpikSendy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OpikSendy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=OpikSendy&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F8FAFC&icon_color=38BDF8&text_color=94A3B8&count_private=true" width="49%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OpikSendy&layout=compact&hide_border=true&bg_color=0D1117&title_color=F8FAFC&text_color=94A3B8&langs_count=8" width="49%" alt="Top Languages" />
 </div>
-
-<div align="center" style="margin-top: 10px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OpikSendy&theme=tokyonight&hide_border=true" width="97%" alt="GitHub Streak" />
-</div>
-
----
-
-### 📬 Let's Connect!
 
 <div align="center">
-
-  [![Gmail](https://img.shields.io/badge/Email-opiksendy%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:opiksendy@gmail.com)
-  [![GitHub](https://img.shields.io/badge/GitHub-OpikSendy-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OpikSendy)
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OpikSendy&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=F8FAFC&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B" width="98%" alt="GitHub Streak" />
 </div>
