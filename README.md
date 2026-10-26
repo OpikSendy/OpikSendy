@@ -24,7 +24,6 @@
 ### ⚡ Snapshot Profil
 
 - 🔭 **Sedang Aktif**: Membangun aplikasi web full-stack modern (Next.js 16+, Express, PostgreSQL) dan aplikasi mobile (Flutter & Kotlin).
-- 🎓 **Edukasi**: S1 Informatika di Universitas Teknologi Yogyakarta (IPK 3.72 / 4.00).
 - 🏆 **Pencapaian**:
   - **Bangkit Academy Graduate (Android Path)** — Kolaborasi Google, GoTo, & Traveloka (Lolos seleksi 1 dari 4.600+ peserta dari 45.000+ pendaftar).
   - **Penulis Jurnal Ilmiah (SINTA 4)** — *"Sistem Pelaporan Fasilitas Umum Berbasis Mobile dan Web dengan Teknologi Geolocation Menggunakan Metode Waterfall"* di JINTEKS (Nov 2025).
