@@ -6,7 +6,6 @@
   </a>
 
   <p align="center">
-    <b>Informatics Engineering Student at Universitas Teknologi Yogyakarta (GPA: 3.72)</b><br>
     Crafting scalable web architectures, resilient mobile apps, and robust API ecosystems.
   </p>
 
