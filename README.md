@@ -24,12 +24,7 @@
 
 ### Overview
 
-Software Engineer based in **Jakarta Selatan, Indonesia**, specializing in end-to-end product development across modern web platforms (**Next.js**, **TypeScript**, **Go**, **Laravel**) and mobile ecosystems (**Flutter**, **Android Kotlin**). Experienced in developing high-throughput microservices, enterprise integrations, and public-sector digital platforms.
-
-- 🚀 **High Velocity**: Recorded **1,990+ contributions** across 40+ active repositories spanning distributed backends, portals, and mobile systems.
-- 🎓 **Bangkit Academy Graduate (Android Path)** — Distinction graduate backed by **Google, GoTo, & Traveloka** (selected from 45,000+ national applicants).
-- 📜 **Published Researcher (SINTA 4)** — Co-authored research on Geolocation-driven multi-platform public facility systems in *Jurnal Informatika Teknologi dan Sains (JINTEKS)*.
-- 🏛️ **Academic Background** — Bachelor of Informatics, Universitas Teknologi Yogyakarta.
+Software Engineer based in Jakarta Selatan, specializing in end-to-end product architecture across modern web platforms (**Go**, **TypeScript**, **Next.js**, **Laravel**) and mobile systems (**Flutter**, **Android Kotlin**). A high-velocity builder with nearly 2,000 contributions across 40+ repositories, combining enterprise-grade reliability with rigorous architectural discipline—backed by an Android Engineering distinction from **Bangkit Academy (Google, GoTo, Traveloka)** and published peer-reviewed research in **SINTA 4** indexed journals. Focused on delivering high-throughput microservices, transactional consistency, and intuitive user experiences.
 
 ---
 
@@ -54,8 +49,8 @@ Software Engineer based in **Jakarta Selatan, Indonesia**, specializing in end-t
 ### Activity & Telemetry
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OpikSendy&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F8FAFC&icon_color=38BDF8&text_color=94A3B8&count_private=true" width="49%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OpikSendy&layout=compact&hide_border=true&bg_color=0D1117&title_color=F8FAFC&text_color=94A3B8&langs_count=8" width="49%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=OpikSendy&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F8FAFC&icon_color=38BDF8&text_color=94A3B8&count_private=true&include_all_commits=true" width="49%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OpikSendy&layout=compact&hide_border=true&bg_color=0D1117&title_color=F8FAFC&text_color=94A3B8&langs_count=8&count_private=true" width="49%" alt="Top Languages" />
 </div>
 
 <div align="center" style="margin-top: 10px;">
