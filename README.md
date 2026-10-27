@@ -49,10 +49,13 @@ Software Engineer based in Jakarta Selatan, specializing in end-to-end product a
 ### Activity & Telemetry
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OpikSendy&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F8FAFC&icon_color=38BDF8&text_color=94A3B8&count_private=true&include_all_commits=true" width="49%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OpikSendy&layout=compact&hide_border=true&bg_color=0D1117&title_color=F8FAFC&text_color=94A3B8&langs_count=8&count_private=true" width="49%" alt="Top Languages" />
+  <!-- Streak & Total Real Contributions (1,999+ Public & Private) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OpikSendy&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=F8FAFC&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B" width="98%" alt="GitHub Streak" />
 </div>
 
 <div align="center" style="margin-top: 10px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OpikSendy&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=F8FAFC&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B" width="98%" alt="GitHub Streak" />
+  <!-- GitHub Stats (Tanpa C+ Rank) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=OpikSendy&show_icons=true&hide_border=true&hide_rank=true&bg_color=0D1117&title_color=F8FAFC&icon_color=38BDF8&text_color=94A3B8&count_private=true&include_all_commits=true" width="49%" alt="GitHub Stats" />
+  <!-- Most Used Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OpikSendy&layout=compact&hide_border=true&bg_color=0D1117&title_color=F8FAFC&text_color=94A3B8&langs_count=8&count_private=true" width="49%" alt="Top Languages" />
 </div>
